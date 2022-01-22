@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6tKaNC6cyj9nUKEHycZXC0lLqwoi32Y93yRt5e+B3QicWv2DznBXVBtOnrshVnlU+rBUdOyUtQyULp0j0VFrjg==",
+  "dgSpecHash": "yhcecL2vHsSUQm/ykN0GL4ob7RPXdB/hum6Tgg2ytVEIvAWYbFX845h9R/gyKsCENVt8FxmafY2x4W+x6mCM5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+  "projectFilePath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilhan pc\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\5.0.1\\aspnetcore.healthchecks.ui.client.5.0.1.nupkg.sha512",
     "C:\\Users\\ilhan pc\\.nuget\\packages\\aspnetcore.healthchecks.ui.core\\5.0.1\\aspnetcore.healthchecks.ui.core.5.0.1.nupkg.sha512",

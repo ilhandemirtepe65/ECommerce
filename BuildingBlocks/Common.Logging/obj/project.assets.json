@@ -5635,11 +5635,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+      "projectUniqueName": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
       "projectName": "Common.Logging",
-      "projectPath": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+      "projectPath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
       "packagesPath": "C:\\Users\\ilhan pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\BuildingBlocks\\Common.Logging\\obj\\",
+      "outputPath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\BuildingBlocks\\Common.Logging\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilhan pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

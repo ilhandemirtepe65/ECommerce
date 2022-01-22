@@ -15,7 +15,7 @@ services:
     restart: always
   ordering.api:
     build:
-      context: C:\Users\ilhan pc\Downloads\Koton\src\ECommerce
+      context: C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce
       dockerfile: Services/Ordering/Ordering.API/Dockerfile
     container_name: ordering.api
     depends_on:
@@ -54,4 +54,4 @@ services:
     restart: always
 networks:
   default:
-    name: dockercompose7788489556604366743_default
+    name: dockercompose14777235032162826926_default

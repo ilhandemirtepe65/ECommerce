@@ -10,3 +10,15 @@ C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\BuildingBlocks\Common.Logging\ob
 C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.dll
 C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\ref\Common.Logging.dll
 C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.pdb
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.deps.json
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.dll
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\bin\Debug\net5.0\ref\Common.Logging.dll
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.pdb
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.csproj.AssemblyReference.cache
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.AssemblyInfoInputs.cache
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.AssemblyInfo.cs
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.csproj.CoreCompileInputs.cache
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.dll
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\ref\Common.Logging.dll
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.pdb

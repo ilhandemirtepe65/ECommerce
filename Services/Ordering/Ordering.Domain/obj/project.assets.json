@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
       "projectName": "Ordering.Domain",
-      "projectPath": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+      "projectPath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
       "packagesPath": "C:\\Users\\ilhan pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\Services\\Ordering\\Ordering.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\Services\\Ordering\\Ordering.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilhan pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XBljz3DHO52yudsK6vfFUASXwyS+0NNyFd0V61iniOVKQQfGvPkqJdNMguciCEL1Lm7kGzU9Fgu991oITPKmww==",
+  "dgSpecHash": "geNZKNtGq6cg6P9YkWpCg3D0/XgSQFL4/OnJNzbSTF+9PTvtUcNKpKitqRPKLReV3HouzS5xllZESL7IWBH/oA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+  "projectFilePath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilhan pc\\.nuget\\packages\\elasticsearch.net\\7.8.1\\elasticsearch.net.7.8.1.nupkg.sha512",
     "C:\\Users\\ilhan pc\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",

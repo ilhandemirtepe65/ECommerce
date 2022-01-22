@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNHR8jLOmaZOElCpG83qEKVxyxS17y8UUaVh5M1Tr9bTNrYFgY961XL+xbZHNCQqc9WZLIIzzjU+QJoy/pZTsw==",
+  "dgSpecHash": "aLvu+ebPkmlytiXPmp5s9Lue8P0rQ+DFmKAWyPrmmVEowaU2mvGWTe2U3tnrcQF+o/0la74kr8bCelbG+5w0nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilhan pc\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ilhan pc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -10,3 +10,15 @@ C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Domai
 C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
 C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll
 C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.deps.json
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.dll
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\ref\Ordering.Domain.dll
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.AssemblyReference.cache
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfoInputs.cache
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfo.cs
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll
+C:\Users\ilhan pc\Desktop\DockerExampleCode\ECommerce\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YvaRRYZeBEFXHFq4w9w48Gdevjqlt6cQo3biILdte8l9Rl3ap7fxQq0B5ln/liDMBfEcYqARTXIqPT4t2qm3rw==",
+  "dgSpecHash": "BhMT2Fg8eswv/3k4aXjpX2HJ6gkNng7mmox+kF8GHH4MqxNUCVoEjrExUQyNRdirZtzhbJR5o7opigxFtiYaaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ilhan pc\\Downloads\\Koton\\src\\ECommerce\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
