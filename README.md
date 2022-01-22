@@ -6,7 +6,7 @@
   *Order oluştuğu zaman Orderı Publsher yardımıyla  kuyruğe ekledim.
   
  
-## Kullanılan Yapılar
+* Kullanılan Yapılar
   *  Fluent Validation
   *  AutoMapper
   *  Mediatr 
