@@ -1,0 +1,17 @@
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.deps.json
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.dll
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\ref\Ordering.Infrastructure.dll
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Infrastructure.pdb
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Application.dll
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.dll
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Application.pdb
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.csproj.CopyComplete
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.dll
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\ref\Ordering.Infrastructure.dll
+C:\Users\ilhan pc\Downloads\Koton\src\ECommerce\Services\Ordering\Ordering.Infrastructure\obj\Debug\net5.0\Ordering.Infrastructure.pdb

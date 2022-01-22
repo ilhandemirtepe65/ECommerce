@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28d1df56-01d0-4684-920a-5a12dfe12087": {
+      "ProjectGuid": "28d1df56-01d0-4684-920a-5a12dfe12087",
+      "DisplayName": "Ordering.API",
+      "ColorIndex": 0
+    },
+    "5df4c385-326e-44dd-b393-e320fd11a834": {
+      "ProjectGuid": "5df4c385-326e-44dd-b393-e320fd11a834",
+      "DisplayName": "Ordering.Domain",
+      "ColorIndex": 1
+    },
+    "89ebbbe3-b89e-41dd-8825-cdd204817d2e": {
+      "ProjectGuid": "89ebbbe3-b89e-41dd-8825-cdd204817d2e",
+      "DisplayName": "Ordering.Infrastructure",
+      "ColorIndex": 2
+    },
+    "c49f221d-2cf2-4d10-9619-6f97b5811692": {
+      "ProjectGuid": "c49f221d-2cf2-4d10-9619-6f97b5811692",
+      "DisplayName": "Ordering.Application",
+      "ColorIndex": 3
+    },
+    "939fc30c-0ea3-42e3-8d5d-d9c63d066c34": {
+      "ProjectGuid": "939fc30c-0ea3-42e3-8d5d-d9c63d066c34",
+      "DisplayName": "Ordering.API",
+      "ColorIndex": 4
+    },
+    "14abec6e-a850-47f0-8c6e-41e2423c6944": {
+      "ProjectGuid": "14abec6e-a850-47f0-8c6e-41e2423c6944",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 5
+    },
+    "45092e26-488f-40bb-9686-8b2a2212a9f8": {
+      "ProjectGuid": "45092e26-488f-40bb-9686-8b2a2212a9f8",
+      "DisplayName": "EventBus.Messages",
+      "ColorIndex": 6
+    },
+    "d2b9fe9f-0a5f-4b29-abf8-e3af93d55c25": {
+      "ProjectGuid": "d2b9fe9f-0a5f-4b29-abf8-e3af93d55c25",
+      "DisplayName": "Common.Logging",
+      "ColorIndex": 7
+    },
+    "06fd8c4b-46e2-4ca2-932f-16bdacf8b826": {
+      "ProjectGuid": "06fd8c4b-46e2-4ca2-932f-16bdacf8b826",
+      "DisplayName": "Ordering.Infrastructure",
+      "ColorIndex": 8
+    },
+    "5a6e65e3-a3d7-494e-8d7f-a881b331f9c3": {
+      "ProjectGuid": "5a6e65e3-a3d7-494e-8d7f-a881b331f9c3",
+      "DisplayName": "Ordering.Application",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e870dcce-382a-4eb6-94a7-2ec226838b54": {
+      "ProjectGuid": "e870dcce-382a-4eb6-94a7-2ec226838b54",
+      "DisplayName": "Ordering.Domain",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
