@@ -12,6 +12,7 @@
   *  Rabbit Mq
   *  Clean Architecture
   *  Domain Driven Dizayn
+  *  Generic Repository
   *  Web api Core
   *  Application  Exception
   * Serilog-->yarıda kaldı
