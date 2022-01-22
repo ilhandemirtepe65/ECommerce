@@ -14,7 +14,7 @@
   *  Domain Driven Dizayn
   *  Web api Core
   *  Application  Exception
-  
+  * Serilog-->yarıda kaldı
   
 
 * Proje Çalıştırılması
