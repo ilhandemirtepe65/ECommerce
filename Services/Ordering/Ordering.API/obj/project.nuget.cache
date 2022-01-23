@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yhcecL2vHsSUQm/ykN0GL4ob7RPXdB/hum6Tgg2ytVEIvAWYbFX845h9R/gyKsCENVt8FxmafY2x4W+x6mCM5w==",
+  "dgSpecHash": "IV6CWKtNcfZnUDgNSDfqKvaGnfELPu42pjiIVNsm9PaLFD+9k+/TRB92CBWXBLcAPXYJtwyN5XxQtXPPxwJGaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ilhan pc\\Desktop\\DockerExampleCode\\ECommerce\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
   "expectedPackageFiles": [
@@ -69,7 +69,7 @@
     "C:\\Users\\ilhan pc\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\ilhan pc\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\ilhan pc\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
-    "C:\\Users\\ilhan pc\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\ilhan pc\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
     "C:\\Users\\ilhan pc\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\ilhan pc\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\ilhan pc\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

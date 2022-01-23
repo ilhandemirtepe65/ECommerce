@@ -6,7 +6,7 @@ services:
     container_name: ordering.api
     environment:
         - ASPNETCORE_ENVIRONMENT=Development
-        - "ConnectionStrings:OrderingConnectionString=Server=orderdb;Database=OrderDb;User Id=sa;Password=SwN12345678"            
+        - "ConnectionStrings:OrderingConnectionString=Server=orderdb;Database=ilhanDb;User Id=sa;Password=SwN12345678"            
         - "EventBusSettings:HostAddress=amqp://guest:guest@rabbitmq:5672"
         - "ElasticConfiguration:Uri=http://elasticsearch:9200"
     depends_on:
@@ -30,3 +30,5 @@ services:
     restart: always
     ports:
         - "1433:1433"
+
+

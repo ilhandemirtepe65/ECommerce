@@ -9,6 +9,10 @@ using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
+using RabbitMQ.Client;
+using System.Text;
+using MassTransit;
+using System.Text.Json;
 
 namespace Ordering.API.Controllers
 {
@@ -17,12 +21,13 @@ namespace Ordering.API.Controllers
     public class OrderController : ControllerBase
     {
         private readonly IMediator _mediator;
-
+     
         public OrderController(IMediator mediator)
         {
             _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
+    
         }
-        
+
         [HttpGet("{userName}", Name = "GetOrder")]
         [ProducesResponseType(typeof(IEnumerable<OrdersVm>), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<IEnumerable<OrdersVm>>> GetOrdersByUserName(string userName)
@@ -38,7 +43,33 @@ namespace Ordering.API.Controllers
         public async Task<ActionResult<int>> CheckoutOrder([FromBody] CheckoutOrderCommand command)
         {
             var result = await _mediator.Send(command);
-            return Ok(result);
+            if (result!=null)
+            {
+
+
+                var factory = new ConnectionFactory() { HostName = "localhost" }; ///lokalde bağlanılacaksa localhost olmalıdır
+                                                                                 ///docker ile olsa  rabbitmq
+                string queue_name = "ecommercequeue";
+                using (var connection = factory.CreateConnection())
+                using (var channel = connection.CreateModel())
+                {
+                    channel.QueueDeclare(queue: queue_name,
+                                         durable: true,
+                                         exclusive: false,
+                                         autoDelete: false,
+                                         arguments: null);
+
+                    string message = JsonSerializer.Serialize(result);
+                    var body = Encoding.UTF8.GetBytes(message);
+
+                    channel.BasicPublish(exchange:string.Empty,
+                                         routingKey: queue_name,
+                                         basicProperties: null,
+                                         body: body);
+                }
+                return Ok(result);
+            }
+            return BadRequest();
         }
 
         [HttpPut(Name = "UpdateOrder")]

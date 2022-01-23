@@ -11,6 +11,7 @@ using Microsoft.OpenApi.Models;
 using Ordering.Application;
 using Ordering.Infrastructure;
 using Ordering.Infrastructure.Persistence;
+using System;
 
 namespace Ordering.API
 {
@@ -28,10 +29,6 @@ namespace Ordering.API
         {
             services.AddApplicationServices();
             services.AddInfrastructureServices(Configuration);
-
-            // MassTransit-RabbitMQ Configuration
-           
-
 
             services.AddAutoMapper(typeof(Startup));
 

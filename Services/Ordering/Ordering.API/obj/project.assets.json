@@ -910,7 +910,7 @@
           "lib/netstandard2.0/Polly.dll": {}
         }
       },
-      "RabbitMQ.Client/6.2.1": {
+      "RabbitMQ.Client/6.2.2": {
         "type": "package",
         "dependencies": {
           "System.Memory": "4.5.4",
@@ -2838,7 +2838,8 @@
           "FluentValidation.DependencyInjectionExtensions": "9.5.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
-          "Ordering.Domain": "1.0.0"
+          "Ordering.Domain": "1.0.0",
+          "RabbitMQ.Client": "6.2.2"
         },
         "compile": {
           "bin/placeholder/Ordering.Application.dll": {}
@@ -4245,10 +4246,10 @@
         "polly.nuspec"
       ]
     },
-    "RabbitMQ.Client/6.2.1": {
-      "sha512": "kdcin0uz1b9xQPvlLOoa8Y2zQsfu7nRuTrcX02dCLVzwGVlsPp9AFgu1L3kRh4wSFEOGE03OVqpWKxaDlhuowQ==",
+    "RabbitMQ.Client/6.2.2": {
+      "sha512": "+tJSgE+rQXgLvOxWvOxdZ0+No1EMa86+puZuNlCb4cNryHw2PY2Xiw/y2dz/WWdeJQp74Y2UnNXPkuLiYpvn+A==",
       "type": "package",
-      "path": "rabbitmq.client/6.2.1",
+      "path": "rabbitmq.client/6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4260,7 +4261,7 @@
         "lib/netstandard2.0/RabbitMQ.Client.dll",
         "lib/netstandard2.0/RabbitMQ.Client.pdb",
         "lib/netstandard2.0/RabbitMQ.Client.xml",
-        "rabbitmq.client.6.2.1.nupkg.sha512",
+        "rabbitmq.client.6.2.2.nupkg.sha512",
         "rabbitmq.client.nuspec"
       ]
     },

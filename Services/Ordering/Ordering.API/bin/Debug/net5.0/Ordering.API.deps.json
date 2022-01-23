@@ -536,7 +536,7 @@
       "MassTransit.RabbitMQ/7.1.5": {
         "dependencies": {
           "MassTransit": "7.1.5",
-          "RabbitMQ.Client": "6.2.1"
+          "RabbitMQ.Client": "6.2.2"
         },
         "runtime": {
           "lib/netstandard2.0/MassTransit.RabbitMqTransport.dll": {
@@ -1132,7 +1132,7 @@
           "lib/netstandard2.0/Polly.dll": {}
         }
       },
-      "RabbitMQ.Client/6.2.1": {
+      "RabbitMQ.Client/6.2.2": {
         "dependencies": {
           "System.Memory": "4.5.4",
           "System.Threading.Channels": "4.7.1"
@@ -1140,7 +1140,7 @@
         "runtime": {
           "lib/netstandard2.0/RabbitMQ.Client.dll": {
             "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.2.1.0"
+            "fileVersion": "6.2.2.0"
           }
         },
         "compile": {
@@ -2330,7 +2330,8 @@
           "FluentValidation.DependencyInjectionExtensions": "9.5.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "5.0.0",
-          "Ordering.Domain": "1.0.0"
+          "Ordering.Domain": "1.0.0",
+          "RabbitMQ.Client": "6.2.2"
         },
         "runtime": {
           "Ordering.Application.dll": {}
@@ -4497,12 +4498,12 @@
       "path": "polly/7.2.1",
       "hashPath": "polly.7.2.1.nupkg.sha512"
     },
-    "RabbitMQ.Client/6.2.1": {
+    "RabbitMQ.Client/6.2.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-kdcin0uz1b9xQPvlLOoa8Y2zQsfu7nRuTrcX02dCLVzwGVlsPp9AFgu1L3kRh4wSFEOGE03OVqpWKxaDlhuowQ==",
-      "path": "rabbitmq.client/6.2.1",
-      "hashPath": "rabbitmq.client.6.2.1.nupkg.sha512"
+      "sha512": "sha512-+tJSgE+rQXgLvOxWvOxdZ0+No1EMa86+puZuNlCb4cNryHw2PY2Xiw/y2dz/WWdeJQp74Y2UnNXPkuLiYpvn+A==",
+      "path": "rabbitmq.client/6.2.2",
+      "hashPath": "rabbitmq.client.6.2.2.nupkg.sha512"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
       "type": "package",
