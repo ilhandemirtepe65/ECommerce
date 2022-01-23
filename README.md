@@ -22,7 +22,7 @@
   *  Container ayağa kaldırılması ve ve silinmesi komutları
      *   docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
      *   docker-compose -f docker-compose.yml -f docker-compose.override.yml down
-     *   ![image](https://user-images.githubusercontent.com/80510214/150670172-610f0233-7da3-4cac-9cf4-4eedf2398a11.png)
+     *  ![image](https://user-images.githubusercontent.com/80510214/150674043-a091a6c7-1af8-4dd5-a5d0-b1c58814b15a.png)
  
   *  Proje ayağa kalktığı zaman otomatik olarak 5 ürün ekledim .Id:1,2,3,4,5 
   *  Order oluşturulduğu zaman ilgili producttan eğer stok varsa düşürülmektedir
