@@ -22,7 +22,6 @@
   *  Container ayağa kaldırılması ve ve silinmesi komutları
      *   docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
      *   docker-compose -f docker-compose.yml -f docker-compose.override.yml down
-     *   
      *   GetPreconfiguredOrders() metodunda proje  ayağa kalktığı zaman 5 tane ürün ekledim Id:1,2,3,4,5 
      *   Order Create edilirken ProductId:1,2,3,4 veya 5 olmalıdır.Quantity alanı zorunludur. Geri kalan alanlar zorunlu değildir
      *   Order oluşturulduğu zaman ilgili producttan eğer stok varsa düşürülmektedir
