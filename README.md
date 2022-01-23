@@ -19,7 +19,7 @@
   
 
 * Proje Çalıştırılması
-  *  Container ayağa kaldırılması ve ve silinmesi komutları
+  *  Containerları ayağa kaldırılması ve ve silinmesi komutları
      *   docker-compose -f docker-compose.yml -f docker-compose.override.yml up -d
      *   docker-compose -f docker-compose.yml -f docker-compose.override.yml down
      *   GetPreconfiguredOrders() metodunda proje  ayağa kalktığı zaman 5 tane ürün ekledim Id:1,2,3,4,5 
