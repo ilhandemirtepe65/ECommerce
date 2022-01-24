@@ -7,7 +7,7 @@
   *  Mediatr 
   *  CQRS (Command and Query)
   *  Dependency Injection
-  *  Entity Framework Core (Code First)
+  *  Entity Framework Core (Code First), .Net 5 ,MsSql Server
   *  Docker Compose ,Docker
   *  Rabbit Mq
   *  Clean Architecture
